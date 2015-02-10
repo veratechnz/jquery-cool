@@ -1,8 +1,25 @@
 /*Custom CSS*/
 
 .main-img{
+	
 	background: url('../img/fish-a.jpg') no-repeat;
 	width: 980px;
 	height: 1000px;
+
+}
+
+.center-panel, h2{
+
+	height: 400px; 
+	width:65%;
+	display: block;
+	float: left;
+	color: #FCFAFA;
+	font-size: 80px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-style: italic;
+	text-shadow: 2px 2px #474646;
+
+
 }
 

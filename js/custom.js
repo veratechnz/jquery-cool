@@ -14,11 +14,14 @@ $(function(){
 		$('.main-img').ripples('pause');
 	});
 
+	// // Pause the effect
+	// $('#go').on('click', function(){
+	// 	$('.main-img').ripples('play');
+	// });
+
 
 
 });
-
-
 
 
 
